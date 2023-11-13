@@ -6,7 +6,7 @@ I'm a PhD student in Computer Science at ECNU, with a focus on Natural Language 
 - [OSPP'22](https://summer-ospp.ac.cn/) of Julia - A QR code encoder [QRCoders.jl](https://github.com/JuliaImages/QRCoders.jl) and decoder [QRDecoders.jl](https://github.com/JuliaImages/QRDecoders.jl).
 - Core developer of the organization [CubeNLP](https://github.com/cubenlp).
 - [rubik_cube.py](https://github.com/RexWzh/rubik_cube.py) - Auto-solver of Rubik's cube using Python and the Kociemba algorithm.
-- [openai_api_call](https://github.com/cubenlp/openai_api_call) - A wrapper for the OpenAI API that simplifies the process of making requests and handling responses.
+- [chattool](https://github.com/cubenlp/chatapi_toolkit) - A simple wrapper for Chat API that simplifies the process of making requests and handling responses.
 - 《好玩的数学》公众号[专栏作者](https://mp.weixin.qq.com/mp/homepage?__biz=MzIyNzUxMjE1Mw==&hid=6)
 - [全国大学生数学竞赛](http://www.cmathc.cn/) - 决赛一等奖 (2019), 省赛一等奖 (2017, 2018).
 - [全国高校密码数学挑战赛](https://www.topsec.com.cn/hd/password.html) - 中南赛区二等奖 (2018).
