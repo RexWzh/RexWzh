@@ -14,8 +14,6 @@ I'm a PhD student in Computer Science at ECNU, with a focus on Natural Language 
 - [全国大学生数学竞赛](https://mp.weixin.qq.com/s?__biz=MzI2OTE2NzczNQ==&mid=2649989991&idx=2&sn=87a9d1a2f1bfb85408732de6b9a912ba) - 决赛一等奖 (2019), 省赛一等奖 (2017, 2018).
 - [全国高校密码数学挑战赛](http://www.cmsecc.com/d/file/xuanchuan/2018-08-17/2018zhongnan.pdf) - 中南赛区二等奖 (2018).
 - 全国高中数学/化学联赛 - 省二等奖(2014)/省一等奖(2013)
-- 全国初中数学/物理/化学竞赛 - 国二等奖/国一等奖/国一等奖(2012)
-
 
 #### Skills
 - Programming languages: Python, Julia, LEAN, SageMath, C, Mathematica, GAP4
